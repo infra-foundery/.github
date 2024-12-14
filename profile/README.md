@@ -56,6 +56,12 @@ To contribute, follow these steps:
 
 We welcome contributions from the community! Please read our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) before making a pull request.
 
+## Support
+
+If you have questions or need help:
+- Open an issue in the relevant repository.
+- Email us at [support@infra-foundry.org](mailto:support@infra-foundry.org).
+
 ## License
 
 All repositories under **infra-foundry** are licensed under open-source licenses. Please refer to the individual repository for details.
